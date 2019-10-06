@@ -1,0 +1,86 @@
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\StarCapWeb.dll.config
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\StarCapWeb.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\StarCapWeb.pdb
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\obj\Debug\StarCapWeb.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\obj\Debug\StarCapWeb.dll
+\\mac\home\documents\visual studio 2015\Projects\StarCap\StarCapWeb\obj\Debug\StarCapWeb.pdb
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\csc.exe
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\vbc.exe
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\StarCapWeb.dll.config
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\StarCapWeb.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\StarCapWeb.pdb
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\StarCapModel.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\StarCapModel.pdb
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\obj\Debug\StarCapWeb.csprojResolveAssemblyReference.cache
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\obj\Debug\StarCapWeb.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapWeb\obj\Debug\StarCapWeb.pdb
+Z:\StarCap\StarCapWeb\bin\roslyn\csc.exe
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\StarCap\StarCapWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\StarCap\StarCapWeb\bin\roslyn\System.Collections.Immutable.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\System.Reflection.Metadata.dll
+Z:\StarCap\StarCapWeb\bin\roslyn\vbc.exe
+Z:\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe
+Z:\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe.config
+Z:\StarCap\StarCapWeb\bin\StarCapWeb.dll.config
+Z:\StarCap\StarCapWeb\bin\StarCapWeb.dll
+Z:\StarCap\StarCapWeb\bin\StarCapWeb.pdb
+Z:\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\StarCap\StarCapWeb\bin\StarCapModel.dll
+Z:\StarCap\StarCapWeb\bin\StarCapModel.pdb
+Z:\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\StarCap\StarCapWeb\obj\Debug\StarCapWeb.csprojResolveAssemblyReference.cache
+Z:\StarCap\StarCapWeb\obj\Debug\StarCapWeb.dll
+Z:\StarCap\StarCapWeb\obj\Debug\StarCapWeb.pdb
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\csc.exe
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\System.Collections.Immutable.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\System.Reflection.Metadata.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\vbc.exe
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\roslyn\VBCSCompiler.exe.config
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\StarCapWeb.dll.config
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\StarCapWeb.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\StarCapWeb.pdb
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\StarCapModel.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\StarCapModel.pdb
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\obj\Debug\StarCapWeb.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\obj\Debug\StarCapWeb.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapWeb\obj\Debug\StarCapWeb.pdb

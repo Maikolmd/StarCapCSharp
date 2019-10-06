@@ -1,0 +1,15 @@
+F:\informatica\programacion avanzada de app\StarCap\StarCapModel\bin\Debug\StarCapModel.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapModel\bin\Debug\StarCapModel.pdb
+F:\informatica\programacion avanzada de app\StarCap\StarCapModel\obj\Debug\StarCapModel.csprojResolveAssemblyReference.cache
+F:\informatica\programacion avanzada de app\StarCap\StarCapModel\obj\Debug\StarCapModel.dll
+F:\informatica\programacion avanzada de app\StarCap\StarCapModel\obj\Debug\StarCapModel.pdb
+Z:\StarCap\StarCapModel\bin\Debug\StarCapModel.dll
+Z:\StarCap\StarCapModel\bin\Debug\StarCapModel.pdb
+Z:\StarCap\StarCapModel\obj\Debug\StarCapModel.csprojResolveAssemblyReference.cache
+Z:\StarCap\StarCapModel\obj\Debug\StarCapModel.dll
+Z:\StarCap\StarCapModel\obj\Debug\StarCapModel.pdb
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapModel\bin\Debug\StarCapModel.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapModel\bin\Debug\StarCapModel.pdb
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapModel\obj\Debug\StarCapModel.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapModel\obj\Debug\StarCapModel.dll
+G:\INACAP2019\Programacion Avanzada\StarCap\StarCap\StarCapModel\obj\Debug\StarCapModel.pdb
